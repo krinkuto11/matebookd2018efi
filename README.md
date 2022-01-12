@@ -5,7 +5,7 @@ __OpenCore EFI for Huawei Matebook D 2018 (MRC-W00A)__
 - Optimized for MacOS ```12.1 Monterey```
 
 
-__To-do list__
+##__To-do list__
 
 - [x] iGPU Graphics and HDMI (with acceleration)
 - [x] Audio (alcid=21)
@@ -21,7 +21,7 @@ __To-do list__
 [^1]: List of NOT working keys: Mic mute, WiFI toggle, GMail key
 [^2]: Already tried the backlight fixes in the [Dortania Guide](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight.html#what-this-ssdt-does)
 
-__Laptop specs__
+##__Laptop specs__
 
 - CPU: i3 8130u (KabyLake-R)
 - iGPU: UHD 620
