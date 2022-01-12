@@ -18,8 +18,8 @@ __To-do list__
 - [x] Brightness and media keys working[^1]
 - [ ] Lid wake (First try: screen is extremely dim. Second try: wakes as it should)[^2]
 
-[^1] List of NOT working keys: Mic mute, WiFI toggle, GMail key
-[^2] Already tried the backlight fixes in the [Dortania Guide](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight.html#what-this-ssdt-does)
+[^1]: List of NOT working keys: Mic mute, WiFI toggle, GMail key
+[^2]: Already tried the backlight fixes in the [Dortania Guide](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight.html#what-this-ssdt-does)
 
 __Laptop specs__
 
