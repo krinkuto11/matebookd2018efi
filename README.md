@@ -1,7 +1,7 @@
 # MateBook 2018 OC EFI
 OpenCore EFI for Huawei Matebook D 2018
 
-##To-do list
+To-do list
 
 - [x] iGPU Graphics and HDMI (with acceleration)
 - [x] Audio (alcid=21)
