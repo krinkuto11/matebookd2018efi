@@ -15,6 +15,7 @@ __To-do list__
 - [x] Wi-Fi and Bluetooth (Using BCM94360NG)
 - [x] Apple Continuity (Thanks to BCM94360NG card and [Feature Unlock Kext](https://github.com/acidanthera/FeatureUnlock))
 - [x] Cosmetic fixes (OpenCanopy and HD OC picker working)
+- [x] Brightness and media keys working
 - [ ] Lid wake (First try: screen is extremely dim. Second try: wakes as it should)
 
 __Laptop specs__
