@@ -14,6 +14,7 @@ To-do list
 - [x] USB Ports (Mapped with [USBToolBox](https://github.com/USBToolBox))
 - [x] Wi-Fi and Bluetooth (Using BCM94360NG)
 - [x] Apple Continuity (Thanks to BCM94360NG card and [Feature Unlock Kext](https://github.com/acidanthera/FeatureUnlock))
+- [x] Cosmetic fixes (OpenCanopy and HD OC picker working)
 - [ ] Lid wake (First try: screen is extremely dim. Second try: wakes as it should)
 
 
