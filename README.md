@@ -12,8 +12,8 @@ __OpenCore EFI for Huawei Matebook D 2018 (MRC-W00A)__
 - [x] Trackpad and keyboard
 - [x] iServices
 - [x] USB Ports (Mapped with [USBToolBox](https://github.com/USBToolBox))
-- [x] Wi-Fi and Bluetooth (Using BCM94360NG)
-- [x] Apple Continuity (Thanks to BCM94360NG card and [Feature Unlock Kext](https://github.com/acidanthera/FeatureUnlock))
+- [x] Wi-Fi and Bluetooth (Using [BCM94360NG](https://www.ebay.es/itm/174224694910))
+- [x] Apple Continuity (Thanks to [BCM94360NG card](https://www.ebay.es/itm/174224694910) and [Feature Unlock Kext](https://github.com/acidanthera/FeatureUnlock))
 - [x] Cosmetic fixes (OpenCanopy and HD OC picker working)
 - [x] Brightness and media keys working[^1]
 - [ ] Lid wake (First try: screen is extremely dim. Second try: wakes as it should)[^2]
