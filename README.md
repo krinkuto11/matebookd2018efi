@@ -1,3 +1,8 @@
+
+![OpenCore_with_text_Small](https://user-images.githubusercontent.com/50609693/162792803-ba54a898-54d7-4b8f-9fc5-c46061deb27d.png)
+
+
+
 # MateBook D 2018 OC EFI
 __OpenCore EFI for Huawei Matebook D 2018 (MRC-W00A)__
 
