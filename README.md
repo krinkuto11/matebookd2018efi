@@ -30,7 +30,7 @@ __OpenCore EFI for Huawei Matebook D 2018 (MRC-W00A)__
 
 - CPU: i3 8130u (KabyLake-R)
 - iGPU: UHD 620
-- RAM: 8GB DDR4
+- RAM: 16GB DDR4 (2400mhz)
 - 256GB SSD M.2 SATA
 - Wi-Fi & Bluetooth: BCM94360NG 
 
