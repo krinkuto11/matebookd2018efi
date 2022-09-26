@@ -6,8 +6,8 @@
 # MateBook D 2018 OC EFI
 __OpenCore EFI for Huawei Matebook D 2018 (MRC-W00A)__
 
-- OpenCore ```REL 0.8.0 (Stable)```
-- Optimized for MacOS ```12.4 Monterey```
+- OpenCore ```REL 0.8.4 (Stable)```
+- Optimized for MacOS ```12.6 Monterey```
 
 
 ## __To-do list__
